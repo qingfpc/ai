@@ -1,2 +1,3 @@
 # ai
-It's an AI warehouse with all the projects I've practiced during my studies.
+用以训练模型
+包含BiRNN和TextCNN
